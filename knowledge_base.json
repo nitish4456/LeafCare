@@ -1,0 +1,20 @@
+{
+    "healthy": {
+        "symptoms": "The selected image was classified as a healthy tomato leaf. Continue monitoring the plant for any changes.",
+        "causes": "A healthy leaf does not show the selected disease category. This classification does not guarantee that the plant is disease-free.",
+        "prevention": "Maintain appropriate watering, good airflow, and regular plant inspection. Avoid prolonged leaf wetness.",
+        "management": "Continue routine plant care and monitor for new spots, yellowing, or other changes."
+    },
+    "early_blight": {
+        "symptoms": "Tomato early blight commonly causes brown leaf spots, often with concentric rings and surrounding yellowing.",
+        "causes": "Early blight is commonly associated with the fungus Alternaria solani. Warm, humid conditions and wet foliage can favour disease development.",
+        "prevention": "Use healthy planting material, improve airflow, avoid prolonged leaf wetness, and remove infected plant debris appropriately.",
+        "management": "Inspect affected plants, remove infected leaves when appropriate, and avoid overhead watering. Seek local agricultural guidance for suitable disease-control measures."
+    },
+    "late_blight": {
+        "symptoms": "Tomato late blight can cause irregular dark or water-soaked lesions on leaves, sometimes with pale growth in humid conditions.",
+        "causes": "Late blight is caused by Phytophthora infestans, a disease-causing organism that can spread rapidly in favourable cool, humid conditions.",
+        "prevention": "Monitor plants regularly, avoid prolonged leaf wetness, improve airflow, and follow local agricultural disease alerts.",
+        "management": "Promptly seek local agricultural advice if late blight is suspected because it can spread rapidly. Follow locally approved management recommendations."
+    }
+}
